@@ -1,9 +1,3 @@
----
-layout: page
-title: Flutter Developer Resume
-permalink: /
----
-
 <div class="resume-header">
   <h1 class="resume-name">Flutter Developer Resume</h1>
   <p class="resume-headline">Junior Flutter Frontend Developer</p>
@@ -40,28 +34,28 @@ permalink: /
       <div class="resume-skill-name">Flutter / Dart</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">BLoC и state management</div>
+      <div class="resume-skill-name">- BLoC и state management</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">Clean Architecture</div>
+      <div class="resume-skill-name">- Clean Architecture</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">REST API и асинхронность</div>
+      <div class="resume-skill-name">- REST API и асинхронность</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">Firebase</div>
+      <div class="resume-skill-name">- Firebase</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">FCM и push-уведомления</div>
+      <div class="resume-skill-name">- FCM и push-уведомления</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">Анимации, переходы и производительный UI</div>
+      <div class="resume-skill-name">- Анимации, переходы и производительный UI</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">Git и командная разработка</div>
+      <div class="resume-skill-name">- Git и командная разработка</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">AI-инструменты для ускорения разработки и анализа кода</div>
+      <div class="resume-skill-name">- AI-инструменты для ускорения разработки и анализа кода</div>
     </div>
   </div>
 </section>
@@ -72,13 +66,13 @@ permalink: /
     <div class="resume-entry">
       <div class="resume-entry-summary">
         <ul>
-          <li>Разрабатывать мобильные интерфейсы на Flutter с чистой структурой и хорошей отзывчивостью</li>
-          <li>Работать с <code>BLoC</code> и подбирать подход к управлению состоянием под задачи проекта</li>
-          <li>Уверенно интегрировать <code>REST API</code>, обрабатывать асинхронные сценарии и загрузку данных</li>
-          <li>Реализовывать функциональность на <code>Firebase</code>, включая чат</li>
-          <li>Настраивать push-уведомления и сценарии с <code>FCM</code></li>
-          <li>Делать плавные анимации, переходы и удобные экраны</li>
-          <li>Поддерживать и дорабатывать существующий проектный код</li>
+          <li>- Разрабатывать мобильные интерфейсы на Flutter с чистой структурой и хорошей отзывчивостью</li>
+          <li>- Работать с <code>BLoC</code> и подбирать подход к управлению состоянием под задачи проекта</li>
+          <li>- Уверенно интегрировать <code>REST API</code>, обрабатывать асинхронные сценарии и загрузку данных</li>
+          <li>- Реализовывать функциональность на <code>Firebase</code>, включая чат</li>
+          <li>- Настраивать push-уведомления и сценарии с <code>FCM</code></li>
+          <li>- Делать плавные анимации, переходы и удобные экраны</li>
+          <li>- Поддерживать и дорабатывать существующий проектный код</li>
         </ul>
       </div>
     </div>
@@ -157,10 +151,9 @@ permalink: /
   <h2 class="resume-section-title">Контакты</h2>
   <div class="resume-section-content">
     <div class="resume-contact-info resume-contact-info-left">
-      <span class="resume-contact-item"><span class="resume-contact-label">Имя</span>: Ваше имя</span>
-      <span class="resume-contact-item"><span class="resume-contact-label">Telegram</span>: @your_username</span>
-      <span class="resume-contact-item"><span class="resume-contact-label">Email</span>: your@email.com</span>
-      <span class="resume-contact-item"><span class="resume-contact-label">GitHub</span>: <a href="https://github.com/your_username" class="resume-contact-link">https://github.com/your_username</a></span>
+      <span class="resume-contact-item"><span class="resume-contact-label">Имя</span>: Косши Амир</span>
+      <span class="resume-contact-item"><span class="resume-contact-label">Telegram</span>: @pqotq</span>
+      <span class="resume-contact-item"><span class="resume-contact-label">Email</span>: rosoku667@gmail.com</span>
     </div>
   </div>
 </section>
