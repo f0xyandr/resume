@@ -1,0 +1,15 @@
+title: Flutter Developer Resume
+description: Junior Flutter frontend developer open to remote full-time work, part-time projects, and paid internships.
+url: ""
+baseurl: ""
+
+remote_theme: daviddarnes/garth
+
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
+
+author:
+  name: Your Name
+
