@@ -34,28 +34,28 @@
       <div class="resume-skill-name">Flutter / Dart</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">- BLoC и state management</div>
+      <div class="resume-skill-name"> BLoC и state management</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">- Clean Architecture</div>
+      <div class="resume-skill-name"> Clean Architecture</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">- REST API и асинхронность</div>
+      <div class="resume-skill-name"> REST API и асинхронность</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">- Firebase</div>
+      <div class="resume-skill-name"> Firebase</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">- FCM и push-уведомления</div>
+      <div class="resume-skill-name"> FCM и push-уведомления</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">- Анимации, переходы и производительный UI</div>
+      <div class="resume-skill-name"> Анимации, переходы и производительный UI</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">- Git и командная разработка</div>
+      <div class="resume-skill-name"> Git и командная разработка</div>
     </div>
     <div class="resume-skill-item">
-      <div class="resume-skill-name">- AI-инструменты для ускорения разработки и анализа кода</div>
+      <div class="resume-skill-name"> AI-инструменты для ускорения разработки и анализа кода</div>
     </div>
   </div>
 </section>
